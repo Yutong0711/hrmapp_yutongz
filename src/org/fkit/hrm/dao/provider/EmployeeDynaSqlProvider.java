@@ -11,7 +11,7 @@ import org.fkit.hrm.domain.Employee;
  * @Description: 员工动态SQL语句提供类 <br>
  *               网站：<a href="http://www.fkit.org">疯狂Java</a>
  * @author 肖文吉 36750064@qq.com
- * @date 2016年7月11日 上午11:19:23
+ * @date 2016年7月11日 上午11:19:23 sgdg sg s
  * @version V1.0
  */
 public class EmployeeDynaSqlProvider {
