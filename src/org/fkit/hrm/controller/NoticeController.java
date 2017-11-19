@@ -20,7 +20,7 @@ import org.springframework.web.servlet.ModelAndView;
 /**   
  * @Description: 处理公告请求控制器
  * <br>网站：<a href="http://www.fkit.org">疯狂Java</a> 
- * @author 肖文吉	36750064@qq.com   
+ * @author 肖文吉	36750064@qq.com   sdfggsdgsdsg
  * @version V1.0   
  */
 
